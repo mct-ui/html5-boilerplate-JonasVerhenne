@@ -18,12 +18,6 @@ html
  *
  * Customize the background color to match your design.
  */
-::-moz-selection /* mozilla selection */
-{
-    background: #E85E00;
-    color: white;
-    text-shadow: none;
-}
 
 ::selection /* algemene selection */
 {
